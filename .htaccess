@@ -1,0 +1,6 @@
+# Apache (XAMPP). Keeps internals private and disables directory listing.
+Options -Indexes
+DirectoryIndex index.php
+<FilesMatch "\.(sql|md|key|log)$">
+  Require all denied
+</FilesMatch>

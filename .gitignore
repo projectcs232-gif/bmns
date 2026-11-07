@@ -1,0 +1,4 @@
+﻿config.php
+.env
+*.sql
+storage/secret.key
