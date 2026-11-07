@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BMNS KeyVault — PHP / XAMPP edition
 
 Client-side encrypted password manager (AES-256-GCM, PBKDF2-SHA256). PHP + MySQL backend, no Node, no CDN, works offline.
@@ -28,3 +29,6 @@ Requires PHP 8.1+ with `pdo_mysql` (default in XAMPP).
 
 ## Layout
 `index.php` UI · `assets/` CSS/JS · `api/` JSON endpoints · `includes/bootstrap.php` shared code · `config/config.php` settings
+=======
+# bmns
+>>>>>>> 8b99b25d6f997cf37a96030858937b2bfac0cabd
